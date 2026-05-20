@@ -50,6 +50,10 @@ apis:
         url: https://id.jobadder.com/connect/token
 
 common:
+  - type: GitHubOrganization
+    url: https://github.com/jobadder
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/jobadder-com
   - type: Website
     url: https://jobadder.com
   - type: Documentation
