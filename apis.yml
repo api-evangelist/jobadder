@@ -60,7 +60,7 @@ common:
     url: https://developers.jobadder.com/docs/
   - type: Support
     url: https://jobadderapi.zendesk.com/hc/en-us
-  - type: SignUp
+  - type: Signup
     url: https://jobadder.com/contact-sales
   - type: Pricing
     url: https://jobadder.com/pricing
