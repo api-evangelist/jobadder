@@ -50,6 +50,8 @@ apis:
         url: https://id.jobadder.com/connect/token
 
 common:
+  - type: DomainSecurity
+    url: security/jobadder-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/jobadder
   - type: LinkedIn
@@ -64,6 +66,8 @@ common:
     url: https://jobadder.com/contact-sales
   - type: Pricing
     url: https://jobadder.com/pricing
+  - url: https://jobadder.com/blog/feed/
+    type: Blog
 
 maintainers:
   - FN: Kin Lane
