@@ -9,7 +9,18 @@ description: >-
   API uses OAuth 2.0 authorization code flow with region-specific base URLs
   returned in the token response.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jobadder.png
 tags:
   - Recruitment
   - Applicant Tracking System
