@@ -23,6 +23,13 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jobadder.png
 tags:
   - Recruitment
+  - ATS
+  - Staffing
+  - Human Resources
+  - Talent Acquisition
+  - Hiring
+tags_raw:
+  - Recruitment
   - Applicant Tracking System
   - Staffing
   - Human Resources
@@ -44,6 +51,13 @@ apis:
     humanURL: https://developers.jobadder.com/docs/
     baseURL: https://api.jobadder.com/v2
     tags:
+      - Recruitment
+      - Applicant Tracking
+      - Staffing
+      - Job
+      - Candidates
+      - Placements
+    tags_raw:
       - Recruitment
       - Applicant Tracking
       - Staffing
